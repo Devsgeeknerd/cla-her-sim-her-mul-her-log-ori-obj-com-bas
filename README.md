@@ -1,65 +1,38 @@
-<!-- TITLE -->
+<!-- Título -->
+# Herança Simples ou Herança Múltipla?
 
-# GIT & GITHUB
+***Conteúdo da Aula:***
 
-<!-- TABLE OF CONTENTS -->
+A maioria das linguagens modernas (como o **C#**, **PHP** e o próprio **Java**) suportam somente herança simples.
 
-<!-- ## TABELA DE CONTEÚDO -->
+Isso significa que uma subclasse só pode possuir uma superclasse associada.
 
-<!-- OVERVIEW -->
+Ou seja:
 
-<!-- ## VISTA POR CIMA -->
+* Uma classe só pode herdar de uma única classe.
+* Isso ocorre nas linguagens modernas basicamente para facilitar a manutenção do código, além de prover mais segurança na execução do código.
 
-<!-- SCREENSHOT -->
+Outras linguagens, como o **C++**, suportam o que chamamos de herança múltipla.
 
-<!-- ### FOTO DA TELA -->
+Isso quer dizer que as classes, nessas linguagens, podem ter várias superclasses associadas.
 
-<!-- LINKS -->
+Nas linguagens de herança simples, é como se uma classe tivesse somente uma mãe.
 
-<!-- ### LINKS -->
+Agora, nas linguagens de herança múltipla, é como se as classes pudessem ter várias mães.
 
-<!-- MY PROCESS -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-
-<!-- ### CONSTRUIDO COM -->
-
-<!-- WHAT I LEARNED -->
-
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL -->
-
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fgit-e-github-full-stack&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-her-sim-her-mul-her-log-ori-obj-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/git-e-github-full-stack?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-her-sim-her-mul-her-log-ori-obj-com-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/git-e-github-full-stack?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-her-sim-her-mul-her-log-ori-obj-com-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/git-e-github-full-stack?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-her-sim-her-mul-her-log-ori-obj-com-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/git-e-github-full-stack?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-her-sim-her-mul-her-log-ori-obj-com-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/git-e-github-full-stack?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-her-sim-her-mul-her-log-ori-obj-com-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
